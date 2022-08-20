@@ -18,11 +18,13 @@ class Car{
     //this is wrong
     //echo "Hello;"
     
-    #only thing we declare in class is a function or/and variables
+    #only thing we declare in CLASS is a function or/and variables
     #no echo statements
 }//class end
 
 $car1=new Car();
+//car1 is a object of car class
+//car1 is an instance of car class
 $car1->name="Ferrari";
 $car1->color="Red";
 $car1->sayHello();
