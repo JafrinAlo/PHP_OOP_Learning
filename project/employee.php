@@ -27,3 +27,4 @@ $salary = $emp1->getSalaryAmount(20);
 echo "$emp1->name has worked for $emp1->workingDays
 leave taken $emp1->totalLeaveTaken so salary $salary
 " . PHP_EOL;
+?>
