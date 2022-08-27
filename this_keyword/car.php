@@ -9,7 +9,7 @@ class car{
         return $this->name;
     }
 
-    //setter methods
+    //setter methods (parameters passed here)
     function setName($name){
         $this->name=$name;//this keyword indicates the class variables
     }
