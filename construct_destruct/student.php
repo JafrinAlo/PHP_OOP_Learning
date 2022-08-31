@@ -1,7 +1,7 @@
 <?php
 //Every class has magic methods which gets called automatically
 //constructor are magic method that gets loaded auto when instance of a classs is  created
-/*PURPOSE: 
+/*PURPOSE of constructor: 
 ----------initialize the properties of the class to a default value
 ----------Initialize Database Connection
 ----------check if the file exists
