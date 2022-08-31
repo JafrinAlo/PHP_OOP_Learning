@@ -19,6 +19,7 @@ class posts{
     }
 }
 $posts1=new posts("Hiiii from content");
-$content=$posts1->printContent()->content;
-echo $content;
+$posts1->printContent()->content;
+//$content=$posts1->printContent()->content;
+//echo $content;
 ?>
